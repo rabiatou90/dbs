@@ -1,0 +1,33 @@
+*
+{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+nav .navbar-brand
+{
+    font-family: 'Pacifico', cursive;
+}
+
+.navbar {
+    background-color: #dc3545;
+}
+
+.nav-link
+{
+    font-size: 20px;
+}
+
+
+html, body 
+{
+    height: 100%;
+}
+
+body
+{
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+}
+
